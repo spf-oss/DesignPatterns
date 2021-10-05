@@ -8,6 +8,9 @@ namespace 工厂模式简单实现
     {
         void Prepare();
 
+
+
+
         void bake();
 
         void Cut();
